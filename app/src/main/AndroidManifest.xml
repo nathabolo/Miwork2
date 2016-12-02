@@ -27,7 +27,6 @@
         <activity
             android:name=".PhrasesActivity"
             android:label="@string/category_phrases" />
-
     </application>
 
 </manifest>
